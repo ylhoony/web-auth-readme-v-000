@@ -46,10 +46,16 @@ GEM
     coffee-script (2.4.1)
       coffee-script-source
       execjs
+<<<<<<< HEAD
     coffee-script-source (1.12.2)
     concurrent-ruby (1.0.5)
     crass (1.0.4)
     debug_inspector (0.0.3)
+=======
+    coffee-script-source (1.10.0)
+    concurrent-ruby (1.0.0)
+    debug_inspector (0.0.2)
+>>>>>>> 28c23dee10117e02f29ea23745296d602b4f1990
     dotenv (2.2.2)
     dotenv-rails (2.2.2)
       dotenv (= 2.2.2)
